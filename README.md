@@ -2,23 +2,23 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This open-sourced project is for the paper "Leveraging Artificial Intelligence to Uncover Key Contextual Factors In Complex Nursing Practices".
+This open-sourced project is for the paper "Leveraging Artificial Intelligence to Uncover Key Contextual Factors in Complex Nursing Practices".
 
-All the running results(feedback from GPT) are recorded in results folder.
+All the running results (feedback from GPT) are recorded in results folder.
 
 
 ## Contributors
-Qinli (秦丽) is the major contributor of this paper. All the conceptual work and analsis was done by Qinli.
+Qinli (秦丽) is the major contributor of this paper. All the conceptual work and analysis was done by Qinli.
 
 Ziwen helped with the code development. 
 
-We appriciate all the authors from Nurseslabs.com. They provided the questions and human answers. 
+We appreciate all the authors from Nurseslabs.com. They provided the questions and human answers. 
 
 ## Tasks
 
 - Task 1: Answer questions using chat gpt with different models.
 
-- Task 2: Compare answers from human and LLM(large language model). List the contexts causing the different ideas.
+- Task 2: Compare answers from human and LLM (large language model). List the contexts causing the different ideas.
 
 ## Requirements
 
