@@ -1,6 +1,7 @@
 # Code For Paper
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/810605839.svg)](https://zenodo.org/doi/10.5281/zenodo.12577338)
 
 This open-sourced project is for the paper "Leveraging Artificial Intelligence to Uncover Key Contextual Factors in Complex Nursing Practices".
 
@@ -8,7 +9,7 @@ All the running results (feedback from GPT) are recorded in results folder.
 
 
 ## Contributors
-Qinli (秦丽) is the major contributor of this paper. All the conceptual work and analysis was done by Qinli.
+Li Qin (秦丽) is the major contributor of this paper. All the conceptual work and analysis was done by Li Qin.
 
 Ziwen helped with the code development. 
 
