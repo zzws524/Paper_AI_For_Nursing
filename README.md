@@ -21,6 +21,8 @@ We appreciate all the authors from Nurseslabs.com. They provided the questions a
 
 - Task 2: Compare answers from human and LLM (large language model). List the contexts causing the different ideas.
 
+- Task 3: Quantitative analysis for this paper.
+
 ## Requirements
 
 - Python 3.11
@@ -42,6 +44,8 @@ python task1_answer_question.py
 ```bash
 python task2_answer_comprison.py
 ```
+
+- For Task 3, run each jupter-notebook under Analysis_For_paper folder.
 
 - In task1_answer_question.py and task2_answer_comprison.py, you may change parameters in "asyncio.run(main())" at the end of the file.
 

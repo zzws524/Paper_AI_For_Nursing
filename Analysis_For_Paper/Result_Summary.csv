@@ -1,0 +1,446 @@
+﻿Seq,Category,Question Type,Human Result,Gpt3.5Turbo,Human VS 3.5Turbo,Gpt4Turbo,Human VS 4 Turbo,Gpt4o,Human VS 4o
+1,Reduction of Risk Potential,Single choice question,A,A,same,A,same,A,same
+2,Pharmacological and Parenteral Therapies,Single choice question,B,A,diff,B,same,D,diff
+3,Management of Care,Single choice question,B,B,same,A,diff,B,same
+4,Basic Care and Comfort,Single choice question,C,C,same,C,same,C,same
+5,Health Promotion and Maintenance,Single choice question,D,B,diff,D,same,D,same
+6,Health Promotion and Maintenance,Single choice question,A,C,diff,D,diff,D,diff
+7,Safety and Infection Control,Single choice question,A,A,same,B,diff,B,diff
+8,Pharmacological and Parenteral Therapies,Single choice question,A,A,same,A,same,A,same
+9,Physiological Adaptation,Single choice question,D,D,same,D,same,D,same
+10,Physiological Adaptation,Single choice question,C,A,diff,E,diff,C,same
+11,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+12,Management of Care,Single choice question,C,E,diff,B,diff,E,diff
+13,Health Promotion and Maintenance,Single choice question,C,D,diff,C,same,C,same
+14,Pharmacological and Parenteral Therapies,Single choice question,C,C,same,B,diff,C,same
+15,Health Promotion and Maintenance,Single choice question,B,F,diff,"B,F",diff,B,same
+16,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+17,Physiological Adaptation,Single choice question,C,E,diff,D,diff,D,diff
+18,Physiological Adaptation,Multiple-choice question,"A,B,E,F","B,D,E,G",diff,"A,B,E,F,G",diff,"B,E,F",diff
+19,Reduction of Risk Potential,Multiple-choice question,"D,E",D,diff,"D,G",diff,"D,G",diff
+20,Health Promotion and Maintenance,Single choice question,B,D,diff,E,diff,B,same
+21,Management of Care,Single choice question,B,A,diff,A,diff,A,diff
+22,Health Promotion and Maintenance,Single choice question,C,C,same,C,same,C,same
+23,Basic Care and Comfort,Single choice question,A,A,same,A,same,A,same
+24,Pharmacological and Parenteral Therapies,Single choice question,C,C,same,C,same,C,same
+25,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+26,Health Promotion and Maintenance,Single choice question,D,D,same,B,diff,D,same
+27,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+28,Reduction of Risk Potential,Single choice question,D,B,diff,B,diff,D,same
+29,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+30,Pharmacological and Parenteral Therapies,Single choice question,A,A,same,A,same,A,same
+31,Reduction of Risk Potential,Single choice question,A,A,same,A,same,A,same
+32,Health Promotion and Maintenance,Single choice question,C,C,same,C,same,C,same
+33,Safety and Infection Control,Single choice question,C,C,same,C,same,B,diff
+34,Pharmacological and Parenteral Therapies,Single choice question,C,C,same,C,same,C,same
+35,Safety and Infection Control,Single choice question,D,A,diff,D,same,D,same
+36,Reduction of Risk Potential,Single choice question,A,A,same,A,same,A,same
+37,Basic Care and Comfort,Single choice question,D,A,diff,D,same,D,same
+38,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+39,Reduction of Risk Potential,Single choice question,A,A,same,A,same,A,same
+40,Reduction of Risk Potential,Multiple-choice question,"A,B,C","A,B",diff,"A,B,C",same,"A,B,C",same
+41,Safety and Infection Control,Single choice question,B,B,same,B,same,B,same
+42,Safety and Infection Control,Single choice question,A,A,same,A,same,A,same
+43,Pharmacological and Parenteral Therapies,Single choice question,A,A,same,A,same,A,same
+44,Health Promotion and Maintenance,Single choice question,D,D,same,D,same,D,same
+45,Physiological Adaptation,Single choice question,D,D,same,D,same,D,same
+46,Reduction of Risk Potential,Single choice question,C,C,same,C,same,C,same
+47,Reduction of Risk Potential,Single choice question,B,B,same,B,same,B,same
+48,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+49,Reduction of Risk Potential,Single choice question,C,C,same,C,same,C,same
+50,Reduction of Risk Potential,Single choice question,D,D,same,D,same,D,same
+51,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+52,Health Promotion and Maintenance,Single choice question,A,A,same,A,same,A,same
+53,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+54,Pharmacological and Parenteral Therapies,Single choice question,B,C,diff,A,diff,C,diff
+55,Health Promotion and Maintenance,Single choice question,D,D,same,D,same,A,diff
+56,Physiological Adaptation,Single choice question,C,B,diff,C,same,C,same
+57,Reduction of Risk Potential,Multiple-choice question,"A,B,C","A,C,D",diff,"A,B,C,D",diff,"A,B,C,D",diff
+58,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+59,Health Promotion and Maintenance,Single choice question,C,C,same,C,same,C,same
+60,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+61,Management of Care,Single choice question,C,B,diff,C,same,C,same
+62,Health Promotion and Maintenance,Single choice question,A,A,same,A,same,A,same
+63,Physiological Adaptation,Single choice question,B,D,diff,B,same,B,same
+64,Management of Care,Single choice question,B,A,diff,D,diff,B,same
+65,Physiological Adaptation,Single choice question,D,D,same,D,same,D,same
+66,Management of Care,Single choice question,B,B,same,B,same,B,same
+67,Basic Care and Comfort,Multiple-choice question,"A,B,D,E","A,D",diff,"A,D,E",diff,"A,B,D,E",same
+68,Management of Care,Multiple-choice question,"A,C,D","A,C",diff,"C,D",diff,"A,C,D",same
+69,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+70,Management of Care,Single choice question,B,A,diff,A,diff,B,same
+71,Basic Care and Comfort,Single choice question,D,B,diff,A,diff,D,same
+72,Reduction of Risk Potential,Single choice question,D,D,same,D,same,D,same
+73,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+74,Pharmacological and Parenteral Therapies,Single choice question,C,A,diff,C,same,C,same
+75,Management of Care,Single choice question,A,D,diff,B,diff,B,diff
+76,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+77,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+78,Health Promotion and Maintenance,Single choice question,B,B,same,B,same,B,same
+79,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+80,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+81,Health Promotion and Maintenance,Single choice question,C,C,same,C,same,C,same
+82,Reduction of Risk Potential,Single choice question,D,D,same,D,same,D,same
+83,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+84,Physiological Adaptation,Single choice question,C,B,diff,C,same,C,same
+85,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+86,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+87,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+88,Physiological Adaptation,Single choice question,D,D,same,D,same,D,same
+89,Physiological Adaptation,Single choice question,C,A,diff,C,same,C,same
+90,Reduction of Risk Potential,Single choice question,C,C,same,C,same,C,same
+91,Management of Care,Multiple-choice question,"A,B,C","A,B",diff,"A,B",diff,"A,B,C",same
+92,Management of Care,Single choice question,A,B,diff,A,same,A,same
+93,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+94,Management of Care,Single choice question,A,A,same,A,same,A,same
+95,Management of Care,Multiple-choice question,"B,E","B,C",diff,"A,B,E",diff,"B,E",same
+96,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+97,Pharmacological and Parenteral Therapies,Single choice question,B,B,same,B,same,B,same
+98,Management of Care,Single choice question,D,D,same,D,same,D,same
+99,Management of Care,Multiple-choice question,"A,C,E","A,C,E",same,"C,E",diff,"C,E",diff
+100,Management of Care,Single choice question,A,C,diff,C,diff,C,diff
+101,Basic Care and Comfort,Single choice question,B,B,same,B,same,B,same
+102,Pharmacological and Parenteral Therapies,Single choice question,A,B,diff,A,same,A,same
+103,Management of Care,Single choice question,B,B,same,B,same,B,same
+104,Management of Care,Single choice question,C,C,same,C,same,C,same
+105,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+106,Reduction of Risk Potential,Single choice question,C,B,diff,D,diff,D,diff
+107,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+108,Physiological Adaptation,Single choice question,C,A,diff,C,same,C,same
+109,Pharmacological and Parenteral Therapies,Single choice question,D,D,same,D,same,D,same
+110,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+111,Physiological Adaptation,Single choice question,C,C,same,B,diff,B,diff
+112,Pharmacological and Parenteral Therapies,Single choice question,B,A,diff,B,same,B,same
+113,Physiological Adaptation,Single choice question,B,C,diff,B,same,B,same
+114,Reduction of Risk Potential,Single choice question,B,A,diff,B,same,B,same
+115,Physiological Adaptation,Single choice question,C,A,diff,C,same,C,same
+116,Physiological Adaptation,Single choice question,A,B,diff,B,diff,B,diff
+117,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+118,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+119,Pharmacological and Parenteral Therapies,Single choice question,B,B,same,B,same,B,same
+120,Health Promotion and Maintenance,Single choice question,D,D,same,D,same,D,same
+121,Physiological Adaptation,Single choice question,D,D,same,D,same,D,same
+122,Pharmacological and Parenteral Therapies,Single choice question,B,B,same,B,same,B,same
+123,Physiological Adaptation,Single choice question,B,C,diff,C,diff,C,diff
+124,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+125,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+126,Basic Care and Comfort,Single choice question,C,B,diff,C,same,C,same
+127,Pharmacological and Parenteral Therapies,Single choice question,A,A,same,A,same,C,diff
+128,Pharmacological and Parenteral Therapies,Single choice question,C,C,same,C,same,C,same
+129,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+130,Health Promotion and Maintenance,Single choice question,C,C,same,C,same,C,same
+131,Reduction of Risk Potential,Single choice question,A,A,same,A,same,A,same
+132,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+133,Reduction of Risk Potential,Single choice question,D,D,same,D,same,D,same
+134,Pharmacological and Parenteral Therapies,Single choice question,C,C,same,C,same,B,diff
+135,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+136,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+137,Reduction of Risk Potential,Single choice question,D,B,diff,D,same,D,same
+138,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+139,Health Promotion and Maintenance,Single choice question,D,A,diff,B,diff,B,diff
+140,Health Promotion and Maintenance,Single choice question,C,C,same,C,same,C,same
+141,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+142,Management of Care,Single choice question,B,B,same,B,same,B,same
+143,Reduction of Risk Potential,Single choice question,D,C,diff,D,same,D,same
+144,Health Promotion and Maintenance,Single choice question,D,D,same,D,same,D,same
+145,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+146,Reduction of Risk Potential,Single choice question,C,C,same,C,same,C,same
+147,Reduction of Risk Potential,Single choice question,D,D,same,C,diff,D,same
+148,Reduction of Risk Potential,Single choice question,C,C,same,C,same,C,same
+149,Reduction of Risk Potential,Single choice question,A,A,same,A,same,A,same
+150,Basic Care and Comfort,Single choice question,D,D,same,D,same,D,same
+151,Reduction of Risk Potential,Single choice question,C,C,same,C,same,C,same
+152,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+153,N/A,Single choice question,D,C,diff,D,same,D,same
+154,Pharmacological and Parenteral Therapies,Single choice question,B,B,same,B,same,B,same
+155,Reduction of Risk Potential,Single choice question,D,D,same,D,same,D,same
+156,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+157,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+158,Reduction of Risk Potential,Single choice question,B,B,same,B,same,B,same
+159,Reduction of Risk Potential,Single choice question,D,B,diff,D,same,D,same
+160,Physiological Adaptation,Single choice question,B,A,diff,A,diff,A,diff
+161,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+162,Reduction of Risk Potential,Single choice question,A,A,same,A,same,A,same
+163,Physiological Adaptation,Single choice question,D,D,same,D,same,D,same
+164,Physiological Adaptation,Single choice question,C,A,diff,C,same,C,same
+165,Health Promotion and Maintenance,Single choice question,B,B,same,B,same,B,same
+166,Psychosocial Integrity,Single choice question,D,D,same,D,same,D,same
+167,Basic Care and Comfort,Single choice question,B,A,diff,A,diff,A,diff
+168,Management of Care,Single choice question,C,C,same,C,same,C,same
+169,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+170,Physiological Adaptation,Single choice question,D,D,same,D,same,D,same
+171,Reduction of Risk Potential,Single choice question,D,D,same,D,same,D,same
+172,Reduction of Risk Potential,Single choice question,C,C,same,C,same,C,same
+173,Physiological Adaptation,Single choice question,C,B,diff,C,same,B,diff
+174,Reduction of Risk Potential,Single choice question,D,D,same,D,same,D,same
+175,Reduction of Risk Potential,Single choice question,A,A,same,A,same,A,same
+176,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+177,Pharmacological and Parenteral Therapies,Single choice question,C,B,diff,C,same,B,diff
+178,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+179,Reduction of Risk Potential,Single choice question,D,A,diff,D,same,D,same
+180,Physiological Adaptation,Single choice question,D,D,same,D,same,D,same
+181,Health Promotion and Maintenance,Single choice question,B,D,diff,B,same,B,same
+182,Reduction of Risk Potential,Single choice question,A,B,diff,A,same,A,same
+183,Reduction of Risk Potential,Single choice question,D,D,same,D,same,D,same
+184,Pharmacological and Parenteral Therapies,Single choice question,A,A,same,A,same,A,same
+186,N/A,Single choice question,A,A,same,A,same,A,same
+187,Reduction of Risk Potential,Single choice question,B,D,diff,D,diff,D,diff
+190,N/A,Single choice question,B,B,same,B,same,B,same
+191,Pharmacological and Parenteral Therapies,Single choice question,B,B,same,B,same,B,same
+192,Health Promotion and Maintenance,Single choice question,B,B,same,B,same,B,same
+193,Management of Care,Single choice question,C,C,same,C,same,C,same
+194,Reduction of Risk Potential,Single choice question,A,D,diff,A,same,A,same
+195,Physiological Adaptation,Single choice question,D,D,same,D,same,D,same
+196,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+197,Physiological Adaptation,Single choice question,D,A,diff,A,diff,D,same
+198,Physiological Adaptation,Single choice question,D,B,diff,D,same,D,same
+199,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+200,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+201,Reduction of Risk Potential,Single choice question,D,D,same,D,same,D,same
+202,Physiological Adaptation,Single choice question,A,C,diff,C,diff,A,same
+203,Pharmacological and Parenteral Therapies,Single choice question,C,C,same,C,same,C,same
+204,Pharmacological and Parenteral Therapies,Single choice question,C,C,same,C,same,C,same
+205,Basic Care and Comfort,Single choice question,D,D,same,D,same,D,same
+206,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+207,Physiological Adaptation,Single choice question,D,D,same,D,same,D,same
+208,Reduction of Risk Potential,Single choice question,D,D,same,D,same,D,same
+209,Physiological Adaptation,Single choice question,A,C,diff,C,diff,A,same
+210,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+211,Physiological Integrity,Single choice question,A,D,diff,D,diff,D,diff
+212,Physiological Integrity,Single choice question,A,A,same,A,same,A,same
+213,Physiological Integrity,Single choice question,A,A,same,A,same,A,same
+214,Physiological Integrity,Single choice question,C,C,same,C,same,C,same
+215,Physiological Integrity,Single choice question,B,B,same,B,same,B,same
+216,N/A,Single choice question,C,C,same,C,same,C,same
+217,Physiological Integrity,Single choice question,A,A,same,A,same,A,same
+218,Physiological Integrity,Single choice question,D,C,diff,C,diff,B,diff
+219,Physiological Integrity,Single choice question,B,B,same,B,same,B,same
+220,Physiological Integrity,Single choice question,D,D,same,D,same,D,same
+221,Physiological Integrity,Single choice question,B,B,same,B,same,B,same
+222,Physiological Integrity,Single choice question,D,D,same,D,same,D,same
+223,Physiological Integrity,Single choice question,D,D,same,D,same,D,same
+224,Physiological Integrity,Single choice question,A,A,same,A,same,A,same
+225,Physiological Integrity,Single choice question,B,B,same,B,same,B,same
+226,Safe and Effective Care Environment,Single choice question,A,C,diff,A,same,A,same
+227,Safe and Effective Care Environment,Single choice question,A,A,same,A,same,B,diff
+228,Safe and Effective Care Environment,Single choice question,D,D,same,D,same,D,same
+229,Safe and Effective Care Environment,Single choice question,D,D,same,D,same,D,same
+230,Physiological Integrity,Single choice question,B,B,same,B,same,B,same
+231,Safe and Effective Care Environment,Single choice question,B,B,same,B,same,B,same
+232,Safe and Effective Care Environment,Single choice question,B,D,diff,B,same,B,same
+233,Safe and Effective Care Environment,Single choice question,B,A,diff,B,same,B,same
+234,Safe and Effective Care Environment,Single choice question,D,C,diff,C,diff,D,same
+235,Safe and Effective Care Environment,Single choice question,B,B,same,B,same,B,same
+236,Physiological Integrity,Single choice question,A,A,same,A,same,A,same
+237,Health Promotion and Maintenance,Single choice question,C,A,diff,C,same,C,same
+238,Physiological Integrity,Single choice question,C,C,same,C,same,C,same
+239,Health Promotion and Maintenance,Single choice question,B,A,diff,A,diff,D,diff
+240,Physiological Integrity,Single choice question,C,C,same,C,same,C,same
+241,Basic Care and Comfort,Single choice question,B,B,same,B,same,B,same
+242,Health Promotion and Maintenance,Single choice question,B,B,same,B,same,B,same
+243,Safety and Infection Control,Single choice question,D,D,same,D,same,D,same
+244,Basic Care and Comfort,Single choice question,A,A,same,A,same,A,same
+245,Management of Care,Single choice question,A,C,diff,A,same,A,same
+246,Reduction of Risk Potential,Single choice question,A,A,same,A,same,A,same
+247,Safety and Infection Control,Single choice question,C,C,same,C,same,C,same
+248,Physiological Adaptation,Single choice question,B,C,diff,B,same,B,same
+249,Safety and Infection Control,Single choice question,A,A,same,A,same,A,same
+250,Physiological Adaptation,Single choice question,C,B,diff,C,same,C,same
+251,Pharmacological and Parenteral Therapies,Single choice question,A,A,same,A,same,A,same
+252,Pharmacological and Parenteral Therapies,Single choice question,B,A,diff,B,same,B,same
+253,Pharmacological and Parenteral Therapies,Single choice question,C,D,diff,C,same,C,same
+254,Pharmacological and Parenteral Therapies,Single choice question,C,C,same,C,same,C,same
+255,Basic Care and Comfort,Single choice question,C,B,diff,C,same,C,same
+256,Reduction of Risk Potential,Single choice question,B,A,diff,D,diff,A,diff
+257,Reduction of Risk Potential,Single choice question,A,A,same,A,same,A,same
+258,Pharmacological and Parenteral Therapies,Single choice question,B,B,same,B,same,B,same
+259,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+260,Reduction of Risk Potential,Single choice question,D,D,same,D,same,D,same
+261,Basic Care and Comfort,Single choice question,B,B,same,B,same,B,same
+262,Pharmacological and Parenteral Therapies,Single choice question,A,C,diff,A,same,A,same
+263,Health Promotion and Maintenance,Single choice question,B,B,same,B,same,B,same
+264,Pharmacological and Parenteral Therapies,Single choice question,D,D,same,D,same,D,same
+265,Health Promotion and Maintenance,Single choice question,A,A,same,C,diff,A,same
+266,Pharmacological and Parenteral Therapies,Single choice question,A,A,same,A,same,A,same
+267,Psychosocial Integrity,Single choice question,A,A,same,A,same,A,same
+268,Health Promotion and Maintenance,Single choice question,A,A,same,A,same,A,same
+269,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+270,Pharmacological and Parenteral Therapies,Single choice question,B,B,same,B,same,B,same
+271,Management of Care,Single choice question,C,C,same,C,same,C,same
+272,Pharmacological and Parenteral Therapies,Single choice question,B,B,same,B,same,B,same
+273,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+274,Pharmacological and Parenteral Therapies,Single choice question,C,C,same,C,same,C,same
+275,Pharmacological and Parenteral Therapies,Single choice question,A,D,diff,A,same,A,same
+276,Physiological Integrity,Single choice question,B,C,diff,C,diff,C,diff
+277,Health Promotion and Maintenance,Single choice question,D,D,same,D,same,D,same
+278,Health Promotion and Maintenance,Single choice question,A,A,same,A,same,A,same
+279,Health Promotion and Maintenance,Single choice question,D,D,same,D,same,D,same
+280,Health Promotion and Maintenance,Single choice question,C,A,diff,C,same,C,same
+281,Pharmacological and Parenteral Therapies,Single choice question,B,B,same,B,same,B,same
+282,Health Promotion and Maintenance,Single choice question,D,D,same,D,same,D,same
+283,Health Promotion and Maintenance,Single choice question,C,C,same,C,same,C,same
+284,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+285,Health Promotion and Maintenance,Single choice question,B,B,same,B,same,B,same
+286,Pharmacological and Parenteral Therapies,Single choice question,D,A,diff,D,same,D,same
+287,Health Promotion and Maintenance,Single choice question,A,D,diff,D,diff,D,diff
+288,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+289,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+290,Pharmacological and Parenteral Therapies,Single choice question,A,B,diff,A,same,A,same
+291,Physiological Adaptation,Single choice question,C,A,diff,A,diff,A,diff
+292,Physiological Adaptation,Single choice question,D,C,diff,D,same,D,same
+293,Pharmacological and Parenteral Therapies,Single choice question,B,B,same,C,diff,B,same
+294,Health Promotion and Maintenance,Single choice question,C,A,diff,C,same,C,same
+295,Health Promotion and Maintenance,Single choice question,A,A,same,A,same,A,same
+296,Reduction of Risk Potential,Single choice question,A,A,same,A,same,A,same
+297,Health Promotion and Maintenance,Single choice question,D,D,same,D,same,D,same
+298,Reduction of Risk Potential,Single choice question,B,B,same,B,same,B,same
+299,Physiological Adaptation,Single choice question,D,D,same,D,same,D,same
+300,Health Promotion and Maintenance,Single choice question,A,B,diff,B,diff,B,diff
+301,Reduction of Risk Potential,Single choice question,A,A,same,A,same,A,same
+302,Health Promotion and Maintenance,Single choice question,D,A,diff,D,same,D,same
+303,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+304,Reduction of Risk Potential,Single choice question,A,A,same,A,same,A,same
+305,Reduction of Risk Potential,Multiple-choice question,"A,B,C","A,B,C",same,"A,B,C",same,"A,B,C",same
+306,Reduction of Risk Potential,Single choice question,D,A,diff,D,same,D,same
+307,Physiological Adaptation,Single choice question,D,A,diff,D,same,D,same
+308,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+309,Physiological Adaptation,Single choice question,D,D,same,D,same,D,same
+310,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+311,Pharmacological and Parenteral Therapies,Single choice question,B,B,same,B,same,B,same
+312,Physiological Adaptation,Multiple-choice question,"B,C,D,E","B,D",diff,"C,D,E",diff,"C,D,E",diff
+313,Reduction of Risk Potential,Single choice question,A,A,same,A,same,A,same
+314,Pharmacological and Parenteral Therapies,Multiple-choice question,"A,B,D","A,B,C",diff,"A,B",diff,"A,B,E",diff
+315,Physiological Adaptation,Single choice question,B,C,diff,A,diff,B,same
+316,Health Promotion and Maintenance,Single choice question,D,D,same,D,same,D,same
+317,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+318,Pharmacological and Parenteral Therapies,Multiple-choice question,"A,B,D,E","A,B,D",diff,"A,B,D",diff,"A,B,D",diff
+319,Pharmacological and Parenteral Therapies,Single choice question,D,D,same,D,same,D,same
+320,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+321,Physiological Adaptation,Single choice question,C,B,diff,C,same,C,same
+322,Physiological Adaptation,Multiple-choice question,"A,B,C,E","C,D,E",diff,"A,B,C,D,E",diff,"A,B,C,D,E",diff
+323,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+324,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+325,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+326,Safety and Infection Control,Single choice question,B,B,same,B,same,B,same
+327,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+328,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+329,Health Promotion and Maintenance,Single choice question,D,D,same,D,same,D,same
+330,Physiological Adaptation,Single choice question,D,D,same,D,same,D,same
+331,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+332,Physiological Adaptation,Single choice question,D,D,same,D,same,D,same
+333,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+334,Physiological Adaptation,Single choice question,C,C,same,D,diff,D,diff
+335,Health Promotion and Maintenance,Single choice question,D,D,same,D,same,D,same
+336,Physiological Adaptation,Single choice question,D,A,diff,D,same,D,same
+337,Health Promotion and Maintenance,Single choice question,A,A,same,A,same,A,same
+338,Physiological Adaptation,Single choice question,C,A,diff,D,diff,D,diff
+339,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+340,Reduction of Risk Potential,Single choice question,D,C,diff,A,diff,D,same
+341,Health Promotion and Maintenance,Single choice question,B,B,same,B,same,B,same
+342,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+343,Physiological Adaptation,Single choice question,C,D,diff,B,diff,C,same
+344,Reduction of Risk Potential,Single choice question,B,B,same,B,same,B,same
+345,Health Promotion and Maintenance,Single choice question,C,B,diff,A,diff,C,same
+346,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+347,Management of Care,Single choice question,C,C,same,C,same,C,same
+348,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+349,Reduction of Risk Potential,Single choice question,D,D,same,D,same,D,same
+350,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+351,Health Promotion and Maintenance,Single choice question,D,D,same,D,same,D,same
+352,Health Promotion and Maintenance,Single choice question,A,B,diff,A,same,A,same
+353,Reduction of Risk Potential,Single choice question,B,B,same,B,same,B,same
+354,Health Promotion and Maintenance,Single choice question,D,B,diff,D,same,D,same
+355,Physiological Adaptation,Single choice question,D,D,same,D,same,D,same
+356,Pharmacological and Parenteral Therapies,Single choice question,D,D,same,D,same,D,same
+357,Physiological Adaptation,Single choice question,D,D,same,D,same,D,same
+358,Physiological Adaptation,Single choice question,D,D,same,B,diff,D,same
+359,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+360,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+361,Health Promotion and Maintenance,Multiple-choice question,"C,E,F,G","B,E,F,G",diff,"C,E,F,G",same,"C,E,F,G",same
+362,Health Promotion and Maintenance,Single choice question,D,D,same,D,same,D,same
+363,Reduction of Risk Potential,Single choice question,B,B,same,B,same,B,same
+364,Pharmacological and Parenteral Therapies,Single choice question,D,C,diff,C,diff,C,diff
+366,Basic Care and Comfort,Single choice question,B,C,diff,B,same,C,diff
+368,Health Promotion and Maintenance,Single choice question,A,A,same,A,same,A,same
+369,Health Promotion and Maintenance,Multiple-choice question,"B,E","B,E",same,"B,E",same,"B,E",same
+370,Safety and Infection Control,Single choice question,C,C,same,C,same,C,same
+371,Pharmacological and Parenteral Therapies,Multiple-choice question,"A,B","A,B",same,"A,B,C,E",diff,"A,B,E",diff
+372,Pharmacological and Parenteral Therapies,Multiple-choice question,"A,B,C,D,E","B,D,E",diff,"A,B,C,D,E",same,"A,B,C,D,E",same
+373,Pharmacological and Parenteral Therapies,Single choice question,D,B,diff,D,same,D,same
+374,Pharmacological and Parenteral Therapies,Single choice question,A,B,diff,A,same,A,same
+375,Pharmacological and Parenteral Therapies,Single choice question,D,D,same,D,same,D,same
+376,Safety and Infection Control,Single choice question,B,E,diff,E,diff,E,diff
+377,Physiological Adaptation,Single choice question,C,C,same,B,diff,C,same
+378,Physiological Adaptation,Single choice question,B,C,diff,B,same,B,same
+379,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+380,Pharmacological and Parenteral Therapies,Single choice question,C,C,same,C,same,C,same
+381,Health Promotion and Maintenance,Single choice question,D,D,same,D,same,D,same
+382,Pharmacological and Parenteral Therapies,Single choice question,A,A,same,C,diff,A,same
+383,Safety and Infection Control,Single choice question,D,D,same,D,same,D,same
+384,Pharmacological and Parenteral Therapies,Single choice question,C,E,diff,E,diff,E,diff
+385,Physiological Adaptation,Single choice question,B,E,diff,E,diff,E,diff
+386,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+387,Pharmacological and Parenteral Therapies,Single choice question,D,D,same,D,same,D,same
+388,Basic Care and Comfort,Single choice question,A,A,same,A,same,A,same
+389,Physiological Adaptation,Single choice question,D,D,same,D,same,D,same
+390,Physiological Adaptation,Single choice question,D,D,same,D,same,D,same
+391,Health Promotion and Maintenance,Single choice question,A,A,same,A,same,A,same
+392,Physiological Adaptation,Multiple-choice question,"A,C,D","A,C,D",same,"A,C,D",same,"A,C,D",same
+393,Health Promotion and Maintenance,Single choice question,C,C,same,C,same,C,same
+394,Health Promotion and Maintenance,Single choice question,C,C,same,C,same,C,same
+395,Health Promotion and Maintenance,Single choice question,B,B,same,B,same,B,same
+396,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+397,Health Promotion and Maintenance,Single choice question,A,A,same,A,same,A,same
+398,Health Promotion and Maintenance,Single choice question,C,C,same,C,same,C,same
+399,Health Promotion and Maintenance,Single choice question,D,D,same,D,same,D,same
+400,Psychosocial Integrity,Single choice question,C,C,same,C,same,C,same
+401,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+402,Safety and Infection Control,Single choice question,B,B,same,B,same,B,same
+403,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+404,Health Promotion and Maintenance,Multiple-choice question,"A,B,D","A,B,D",same,"A,B,D",same,"A,B,D",same
+405,Health Promotion and Maintenance,Single choice question,A,A,same,A,same,A,same
+406,Reduction of Risk Potential,Single choice question,C,C,same,C,same,C,same
+407,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+408,Psychosocial Integrity,Single choice question,C,C,same,C,same,C,same
+409,Psychosocial Integrity,Single choice question,A,B,diff,B,diff,B,diff
+410,Physiological Adaptation,Single choice question,D,D,same,D,same,D,same
+411,Pharmacological and Parenteral Therapies,Single choice question,A,A,same,A,same,A,same
+412,Pharmacological and Parenteral Therapies,Single choice question,C,A,diff,C,same,C,same
+413,Physiological Adaptation,Single choice question,D,D,same,D,same,D,same
+414,Physiological Adaptation,Single choice question,D,A,diff,D,same,D,same
+415,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+416,Physiological Adaptation,Single choice question,A,B,diff,A,same,A,same
+417,Pharmacological and Parenteral Therapies,Single choice question,B,A,diff,B,same,B,same
+418,Management of Care,Single choice question,B,B,same,B,same,B,same
+419,Physiological Adaptation,Single choice question,C,B,diff,A,diff,C,same
+420,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+421,Pharmacological and Parenteral Therapies,Single choice question,D,D,same,D,same,D,same
+422,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+423,Pharmacological and Parenteral Therapies,Single choice question,C,C,same,C,same,C,same
+424,Physiological Adaptation,Single choice question,D,D,same,D,same,D,same
+425,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+426,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+427,Reduction of Risk Potential,Single choice question,D,A,diff,D,same,D,same
+428,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+429,Psychosocial Integrity,Single choice question,A,A,same,A,same,A,same
+430,Pharmacological and Parenteral Therapies,Single choice question,A,A,same,A,same,A,same
+431,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+432,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+433,Physiological Adaptation,Single choice question,C,A,diff,C,same,C,same
+434,Pharmacological and Parenteral Therapies,Single choice question,A,A,same,A,same,A,same
+435,Pharmacological and Parenteral Therapies,Single choice question,A,A,same,A,same,A,same
+436,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+437,Physiological Adaptation,Single choice question,D,D,same,D,same,D,same
+438,Physiological Adaptation,Single choice question,C,C,same,C,same,C,same
+439,Pharmacological and Parenteral Therapies,Single choice question,D,D,same,D,same,D,same
+440,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+441,Physiological Adaptation,Single choice question,D,C,diff,D,same,D,same
+442,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+443,Physiological Adaptation,Single choice question,B,B,same,B,same,B,same
+444,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+445,Physiological Adaptation,Single choice question,A,A,same,A,same,A,same
+446,Physiological Adaptation,Single choice question,D,A,diff,D,same,D,same
+447,Reduction of Risk Potential,Single choice question,B,D,diff,C,diff,C,diff
+448,Reduction of Risk Potential,Single choice question,B,B,same,B,same,B,same
+449,Physiological Adaptation,Single choice question,C,D,diff,D,diff,C,same
+450,Health Promotion and Maintenance,Single choice question,C,C,same,B,diff,B,diff
